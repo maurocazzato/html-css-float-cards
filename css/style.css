@@ -1,0 +1,37 @@
+.testa{
+    text-align: center;
+    margin: 10px 100px 10px 100px ;
+    padding: 5px 5px 5px 5px;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(226, 43, 205);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* card */
+.card{
+    background-color: black;
+    color: white;
+    margin-left: 150px;
+    border:  solid 1px black;
+    padding: 1px;
+    display: inline-block;
+    padding: 2px 2px 2px 2px;
+}
+
+img{
+    float: left;
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.card::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
