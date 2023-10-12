@@ -22,12 +22,11 @@ p{
     background-color: black;
     color: white;
     margin-left: 120px;
-    padding: 1px;
     display: inline-block;
     padding: 2px 2px 2px 2px;
     width: 250px;
     margin-top: 50px;
-    line-height: 4px;
+    line-height: 3px;
 }
 
 img{
@@ -48,12 +47,10 @@ img{
     color: white;
     margin-left: 120px;
     margin-top: 50px;
-    border:  solid 1px black;
-    padding: 1px;
     display: inline-block;
     padding: 2px 2px 2px 2px;
     width: 250px;
-    line-height: 4px;
+    line-height: 3px;
 }
 /* style */
 .nome{
