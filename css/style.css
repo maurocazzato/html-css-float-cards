@@ -1,5 +1,5 @@
 
-
+/* header */
 .testa{
     text-align: center;
     margin: 10px 100px 10px 100px ;
@@ -7,12 +7,14 @@
 }
 
 h1{
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Fredoka', sans-serif;
+    font-weight: bold;
     color: rgb(226, 43, 205);
 }
 
 p{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-weight: lighter;
 }
 
 /* card */
@@ -53,19 +55,22 @@ img{
     width: 250px;
     line-height: 4px;
 }
+/* style */
 .nome{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 16px;
     font-weight: bold;
 
 }
 .lavoro{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 10px;
+    font-weight: lighter;
 }
 
 .mail{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 7px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 10px;
     color:aqua;
+    font-weight: lighter;
 }
